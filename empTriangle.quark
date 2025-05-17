@@ -5,5 +5,6 @@ summary: "a tool for serial composition",
 author:	"Mattias Petersson",
 version: 0.9,
 helpdoc: "empTriangle-help/empTriangle.html",
+dependencies: [],
 license: "GPL"
 )
